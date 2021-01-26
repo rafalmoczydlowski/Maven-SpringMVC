@@ -1,9 +1,15 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
+
 <html>
   <head>
-    <title>First program</title>
+    <title>First Maven + Spring MVC program</title>
   </head>
   <body>
-  <h2>Hello World!</h2>
+  <h1>Witajcie w programie statystycznym FC Barcelony</h1>
+  +++ <a href="">Rejestracja meczu</a> +++
+  <br>
+  +++ <a href="">Statystyki wg. zawodnika</a> +++
+  <br>
+  +++ <a href="">Statystyki wg. meczu</a> +++
   </body>
 </html>
